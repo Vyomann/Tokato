@@ -1,2 +1,2 @@
 # Tokato
-An AI-powered vegetable price prediction and market analysis tool with autonomous counter-fraud intelligence capabilities to detect scams, engage threat actors via dynamic personas, and extract actionable threat intelligence from agricultural markets.
+Tokato: An intelligent agricultural platform combining vegetable price prediction, market analysis, and counter-fraud intelligence to protect farmers and consumers from scams through AI-powered threat detection and dynamic persona engagement.
