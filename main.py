@@ -28,3 +28,13 @@ if __name__ == "__main__":
     print("\n--- Tokato ---")
     print("Command Center online at: http://localhost:8000")
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+
+@app.route('/')
+def health_check():
+    return "OK", 200
+
+# Ya
+@app.route('/health')
+def health():
+    return {"status": "healthy"}, 200
